@@ -1,2 +1,2 @@
 # stockitor
-Simple stock analysis (React, Java, Postgres)
+Simple stock analysis (React, Play(Java), Postgres)
