@@ -1,0 +1,21 @@
+body {
+  background: #24303a;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */ }
+
+.App {
+  margin: 25px; }
+
+.App-Data-View {
+  padding: 40px; }
+
+.Menu {
+  border-right: 1px solid linen;
+  height: 700px; }
+
+.Data {
+  padding: 40px; }
+
+.Data-Chart {
+  max-height: 500px;
+  background-color: #1e2730; }
